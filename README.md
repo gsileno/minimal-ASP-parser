@@ -19,6 +19,7 @@ otherwise:
 To work with the grammar, download the ANTLR complete JAR file and the necessary Python module.
 The easiest way is by using pip.
 
-> pip install antlr4-python2-runtime
-
+```
+pip install antlr4-python2-runtime
+```
 
