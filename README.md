@@ -1,6 +1,6 @@
 # ASP parser and solver in Python
 
-simple parser for ASP in Python wrapping clingo solver.
+simple parser for ASP in Python wrapping the solver `clingo`.
 
 ## dependencies
 
