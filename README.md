@@ -1,15 +1,16 @@
 # ASP parser and solver in Python
 
+simple parser for ASP in Python wrapping clingo solver.
+
 ## dependencies
 
-this is to install required software by means of conda:
+by means of conda:
 ```
 conda install -c potassco clingo
 conda install -c conda-forge antlr-python-runtime
 ``` 
 
-Otherwise: 
-
+otherwise: 
 **clingo** (the ASP solver)
 - download the sources from [https://github.com/potassco/clingo]
 - compile the python library following the instructions
