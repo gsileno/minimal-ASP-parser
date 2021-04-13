@@ -16,8 +16,8 @@ otherwise:
 - compile the python library following the instructions
 - add the library to the project dependencies 
 
-To work on the grammars, you need to download the ANTLR complete JAR file and the necessary Python module.
-The easiest way is using pip.
+To work with the grammar, download the ANTLR complete JAR file and the necessary Python module.
+The easiest way is by using pip.
 
 > pip install antlr4-python2-runtime
 
